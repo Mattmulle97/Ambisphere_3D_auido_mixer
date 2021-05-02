@@ -127,8 +127,7 @@ def threadedCV(source,port):
 
     stop_time = time.time()-start_time
     print("stoptime: " + str(stop_time))
-    print('shit stopped')
-
+    
 
 ## Main
 
